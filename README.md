@@ -1,4 +1,4 @@
-bill-x.github.io
+README
 ================
 
-personal site
+My personal site. Uses Jekyll.
